@@ -1,0 +1,26 @@
+lakilaki(david).
+lakilaki(john).
+lakilaki(ray).
+lakilaki(jack).
+lakilaki(peter).
+perempuan(susan).
+perempuan(mary).
+perempuan(liza).
+perempuan(amy).
+perempuan(karen).
+
+suami(david, amy).
+suami(jack, karen).
+suami(jhon, susan).
+anak(liza, david).
+anak(john, david).
+anak(liza, amy).
+anak(john, amy).
+s
+anak(peter, john).
+anak(mary, john).
+saudara(ray, susan).
+anak(susan, jack).
+anak(susan, karen).
+anak(ray, jack).
+anak(ray, karen).
