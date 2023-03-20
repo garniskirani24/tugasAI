@@ -16,9 +16,12 @@ anak(liza, david).
 anak(john, david).
 anak(liza, amy).
 anak(john, amy).
-s
+saudara(jhon, liza).
 anak(peter, john).
 anak(mary, john).
+anak(peter, susan).
+anak(mary, susan).
+saudara(peter, mary).
 saudara(ray, susan).
 anak(susan, jack).
 anak(susan, karen).
